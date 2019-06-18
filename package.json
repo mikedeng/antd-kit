@@ -1,6 +1,6 @@
 {
   "name": "antd-kit",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "license": "ISC",
   "description": "antd后台项目前端组件封装和方法库 inspired by antd-doddle",
   "main": "lib/index.js",
@@ -51,8 +51,8 @@
     "bisheng-plugin-description": "^0.1.4",
     "bisheng-plugin-react": "^1.0.0",
     "bisheng-plugin-toc": "^0.4.4",
-    "cross-env": "^5.2.0",
     "clean-webpack-plugin": "^0.1.19",
+    "cross-env": "^5.2.0",
     "css-loader": "^0.28.9",
     "del": "^3.0.0",
     "eslint": "^5.12.1",
