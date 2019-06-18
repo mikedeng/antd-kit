@@ -6,7 +6,7 @@ utils是一个常用方法集，也包含一些常用枚举定义
 
 eg:
 ``` 
-import { DATE_FORMAT, getEnumObject } from 'antd-doddle/utils';
+import { DATE_FORMAT, getEnumObject } from 'antd-kit/utils';
 ```  
 
 ## 常量
@@ -29,7 +29,7 @@ toDecimalNumber：金额数据千分位化与保留小数点后n位
 ## 正则表达式
 使用  
 ``` 
-import { Rules } from 'antd-doddle/utils';
+import { Rules } from 'antd-kit/utils';
 
 const { email } = Rules;
 ```    

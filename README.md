@@ -7,19 +7,19 @@ antd-doddle是一个多包的项目，组件与方法分离。
 
 安装包
 ```sh
-npm i antd-doddle --save
+npm i antd-kit --save
 ```
 
 ## 使用  
 
 使用包中的组件  
 ```javascript
-import { formRender } from 'antd-doddle';
+import { formRender } from 'antd-kit';
 ```
 
 使用包中的方法 
 ```javascript
-import { getEnumObject } from 'antd-doddle/utils';
+import { getEnumObject } from 'antd-kit/utils';
 ```
 
 ## 详细
@@ -27,4 +27,4 @@ import { getEnumObject } from 'antd-doddle/utils';
 请访问组件库[文档地址][1]
 
 
-[1]: https://closertb.github.io/antd-doddle
+[1]: https://closertb.github.io/antd-kit

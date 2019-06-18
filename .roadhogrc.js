@@ -1,7 +1,7 @@
 export default {
   disableCSSSourceMap: true,
   disableAntdStyle: true,
-  library: 'antd-doddle',
+  library: 'antd-kit',
   libraryTarget: 'umd',
   extraBabelPlugins: ["transform-decorators-legacy"], // ,["import", { "libraryName": "antd", "libraryDirectory": "lib", "style": "css" }]
   externals: {

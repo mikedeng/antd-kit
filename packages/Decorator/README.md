@@ -6,7 +6,7 @@ decorator是个人总结的一些装饰器方法，目前只包含了四个装�
 
 eg:
 ``` 
-import { log, form } from 'antd-doddle/decorator';
+import { log, form } from 'antd-kit/decorator';
 ```  
 
 ## API

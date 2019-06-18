@@ -8,7 +8,7 @@ const alertLessConfig = (rules) => {
     }
   });
 };
-const filePath = '/antd-doddle';
+const filePath = '/antd-kit';
 
 module.exports = {
   history: 'hash',
@@ -21,7 +21,7 @@ module.exports = {
   theme: './site',
   entiryName: 'index',
   themeConfig: {
-    siteKey: 'antd-doddle',
+    siteKey: 'antd-kit',
     home: '/guide/introduce',
     root: filePath,
     combineChangelog: false,

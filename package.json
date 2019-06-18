@@ -1,8 +1,8 @@
 {
-  "name": "antd-doddle",
-  "version": "0.0.12",
+  "name": "antd-kit",
+  "version": "0.0.1",
   "license": "ISC",
-  "description": "antd后台项目前端组件封装和方法库",
+  "description": "antd后台项目前端组件封装和方法库 inspired by antd-doddle",
   "main": "lib/index.js",
   "module": "es/index.js",
   "scripts": {
@@ -22,10 +22,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/closertb/antd-doddle.git"
+    "url": "https://github.com/mikedeng/antd-kit.git"
   },
   "keywords": [],
-  "author": "denzelt",
+  "author": "mikedune",
   "dependencies": {
     "antd": "^3.12.4",
     "bind-decorator": "^1.0.11",
